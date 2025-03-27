@@ -4,7 +4,7 @@ A simple and intuitive **Markdown Previewer** that allows users to write and pre
 
 ## 🚀 Features  
 
-- **Live Markdown Preview** – See your Markdown formatted instantly.  
+- **Live Markdown Preview** – See your Markdown formatted instantly.
 - **Dark Mode UI** – A soothing dark theme for comfortable usage.  
 - **Copy Markdown Button** – Copy your Markdown text with one click.  
 - **Clear Button** – Reset the input area quickly.  
