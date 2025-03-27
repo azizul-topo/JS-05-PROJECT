@@ -30,7 +30,7 @@ A simple and intuitive **Markdown Previewer** that allows users to write and pre
 
 ### 🔽 Clone the Repository  
 ```sh
-git clone https://github.com/azizul-topo/JS-05-PROJECT.git
+https://github.com/azizul-topo/JS-05-PROJECT.git
 ```
 
 ### 🖥️ Open Locally  
