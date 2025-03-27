@@ -13,6 +13,7 @@ A simple and intuitive **Markdown Previewer** that allows users to write and pre
 
 ## 📸 Screenshots  
 
+![alt text](image.png)
 
 ## 🌐 Live Demo  
 
@@ -29,8 +30,7 @@ A simple and intuitive **Markdown Previewer** that allows users to write and pre
 
 ### 🔽 Clone the Repository  
 ```sh
-git clone https://github.com/your-username/markdown-previewer.git
-cd markdown-previewer
+git clone https://github.com/azizul-topo/JS-05-PROJECT.git
 ```
 
 ### 🖥️ Open Locally  
